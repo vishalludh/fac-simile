@@ -1,0 +1,4 @@
+conda create --name conda-kivy1.8 --channel https://conda.anaconda.org/Judowill \
+--channel https://conda.anaconda.org/auto \
+--channel https://conda.anaconda.org/tlatorre \
+kivy ipython pil path.py=7.6.1
